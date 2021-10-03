@@ -1,0 +1,2 @@
+PS C:\Users\Administrator> C:\it3038c-scripts\Labs\Lab3\Lab3.ps1
+This Machine's IP is: 192.168.33.162. User is scott2mu-win\administrator. Hostname is scott2mu-win. Powershell Version 5.1.19041.1237. Today's Date is 10/03/2021 19:20:50
