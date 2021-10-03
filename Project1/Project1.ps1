@@ -1,5 +1,6 @@
 #Project 1 Murray Scott IT3038c
 #10/3/2021
+#All commands were written from prior knoledge of PS commands.
 Write-Output "This PS script runs a few commands to get info about your computer and other things."
 Write-Output "The Date is:"
 Get-Date
