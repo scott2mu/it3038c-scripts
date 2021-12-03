@@ -11,7 +11,7 @@ First, lets install MoviePY.
 
 Image Magick is also required to use MoviePy.
 
-Install Magick witht the provided exe file.
+Install Magick with the provided exe file.
 
 Make sure to select "Associate supported file extensions with ImageMagick" and "Install legacy utilities"
 ![alt text](https://i.imgur.com/DKiPmjL.png)
@@ -29,3 +29,4 @@ Run the command:
  ```sh
 python Lab7.py
   ```
+Now you have your edited video!
