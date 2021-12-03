@@ -3,7 +3,11 @@ MoviePy Install and Example Script Murray Scott
 MoviePy can be used to create, edit, and customize video or audio files.
 
 First, lets install MoviePY.
-
+ 
+ 
+ ```sh
+  pip install moviepy
+  ```
 pip install moviepy
 
 Image Magick is also required to use MoviePy.
