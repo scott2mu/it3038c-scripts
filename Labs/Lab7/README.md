@@ -15,6 +15,7 @@ Install Magick witht the provided exe file.
 
 Make sure to select "Associate supported file extensions with ImageMagick" and "Install legacy utilities"
 ![alt text](https://i.imgur.com/DKiPmjL.png)
+
 After it is done installing, use a video clip of your choice or the one given (Dog.mp4). If you choose to use your own video file, please change the name in the script.
 
 This script does three different things to the video.
