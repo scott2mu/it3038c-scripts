@@ -14,4 +14,5 @@ editedvideo = editedvideo.add_mask().rotate(180)
 
 finalvideo = CompositeVideoClip([video, editedvideo])
 
+
 finalvideo.write_videofile("EditedDoggo.webm",codec="libvpx")
