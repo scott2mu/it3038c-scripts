@@ -6,6 +6,7 @@ soup = BeautifulSoup(data, 'html.parser')
 span2 = soup.findAll("a", {"class":"product-title"})
 span = soup.findAll("span", {"class":"ty-price"})
 for title in span2:
+    print(title.text.strip())
     
 for price in span:
     print(price.text.strip())
