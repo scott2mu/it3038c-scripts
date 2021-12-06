@@ -14,7 +14,7 @@ if __name__ =="__main__": #Main code for script
     key ='ebffcd48c99f12488cf4bdb93a458c29' #provided key from making a free account with fixer.io
     address =str.__add__('http://data.fixer.io/api/latest?access_key=',key) #link with key
     c =converter(address)
-    convertingfrom =input("*refer to provided link. Please input the country's currency acronym that you are converting from: ") #User Input
+    convertingfrom =input("*refer to provided link. Please input the country's currency acronym that you are converting from in all caps (Three letters, no spaces): ") #User Input
     convertingto =input("Country's acronym you are converting to: ") #User Input
     amount =int(input("Amount to convert: ")) #User Input
     c.convert(convertingfrom,convertingto,amount) #Call back to converter class to process conversion
