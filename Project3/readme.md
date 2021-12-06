@@ -1,5 +1,5 @@
 In this project, I created a script that converts currency given the currency acronyms and amount. 
-Please refer to the link below for to currency acronyms.
+Please refer to the link below for currency acronyms.
 
 https://www.easymarkets.com/int/learn-centre/discover-trading/currency-acronyms-and-abbreviations/
 
