@@ -13,3 +13,4 @@ After installing, run the python file.
 Enjoy!
 
 I originally planned to also make a GUI to support the code, but I spent a lot more time on learning python than I thought I would. Prior C experienced helped, but I was not as experienced as I thought I was.
+Citations/Sources are at the bottom of the code.
